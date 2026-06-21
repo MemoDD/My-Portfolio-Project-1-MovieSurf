@@ -398,6 +398,17 @@ html {
         top: 90px;
         left: -5px;
     }
+    .trend{
+        display: flex;
+    }
+    .reasons{
+        display: flex;
+        flex-direction: column;
+    }
+    .rn{
+        flex: 1;
+    }
+
 }
 .section-divider {
     width: 100%;
