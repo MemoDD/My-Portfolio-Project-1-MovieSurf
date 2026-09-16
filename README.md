@@ -23,7 +23,8 @@ and cross-browser responsive design.
 *   ## 📸 Project Screenshots
 
 ### Homepage
-![Homepage Screenshot](Images/Screenshot2026-06-21153940.png)
+![Homepage Screenshot](Images/Screenshot%202026-06-21%20153940.png)
+
 
 ### Next Page
 ![Next Page Screenshot](Images/NextPage.png)
